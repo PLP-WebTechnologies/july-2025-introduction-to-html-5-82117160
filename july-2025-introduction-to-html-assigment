@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+  <html>
+  <head> 
+  this is my first html files Programs
+  </head>
+  <p> html is amazing</p>
+          <meta charset="UTF-8" />
+		  <meta name="author" content="idris saidu" />
+  <title>my html</title>
+  <link rel="stylesheet" href="styles.css" />
+                  <h1> PLP SCHOLARSHIP, HELP ME TO BUILD MY FUTURES</h1>
+		<body>
+		<h2> othered list</h2>
+		<h3> list</h3>
+		<ol type="I"> 
+		   <li> my comunity </li>
+		   <li> my pride </li>
+		   <li> amazing </li>
+		   <li> my country </li>
+		   <li> my tuturs </li>
+		</ol>
+		<p> plp academy is wonderfull to produce one millinon developers in Africa </p>
+		<h2> other list</h2>
+		<ul type="i"> 
+		<li> my comunity </li>
+		<li> my pride </li>
+		<li> amazing </li>
+		<li> my country </li>
+		<li> my tuturs </li>
+		</ul> 
+		<h3> embeded image</h3>
+		<img src="immage" alt="garden">
+  </body>
+ 
+  
+  <html/>
